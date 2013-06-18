@@ -1,1 +1,1 @@
-edit:branch stx2.txt was edited
+this is in file st2.txt
