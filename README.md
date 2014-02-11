@@ -15,7 +15,6 @@ study note or programme Paragraph and so on
 2. McHale
 3. Parish
 code
-    <?php
-        echo "Hello World!!!";
-    ?>
+    echo "Hello World!!!";
+
 
