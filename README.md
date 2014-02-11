@@ -11,7 +11,7 @@ study note or programme Paragraph and so on
 
 
 
-+ Bird
-+ McHale
-+ Parish
+1. Bird
+2. McHale
+3. Parish
 
