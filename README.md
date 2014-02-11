@@ -14,7 +14,9 @@ study note or programme Paragraph and so on
 1. Bird
 2. McHale
 3. Parish
+
 code
-    echo "Hello World!!!";
+    echo Hello World!!!
+    phpinfo
 
 
