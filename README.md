@@ -17,8 +17,8 @@ study note or programme Paragraph and so on
 
 -------
 code
-    echo Hello World!!!
-    phpinfo
+    ·echo Hello World·
+    ·phpinfo·
 
 -------
 
