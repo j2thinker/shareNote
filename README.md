@@ -14,7 +14,7 @@ study note or programme Paragraph and so on
 1. Bird
 2. McHale
 3. Parish
-
+code
     <?php
         echo "Hello World!!!";
     ?>
