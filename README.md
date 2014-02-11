@@ -16,8 +16,8 @@ study note or programme Paragraph and so on
 3. Parish
 
 -------
-code
-    ·echo Hello World·
+*Code 看不出效果，悲剧*
+    行内的code呢·echo Hello World·呢
     ·phpinfo·
 
 -------
