@@ -15,8 +15,14 @@ study note or programme Paragraph and so on
 2. McHale
 3. Parish
 
+-------
 code
     echo Hello World!!!
     phpinfo
 
+-------
 
+友情链接
+-------
+
+[天若有琼](http://sharenote.sinaapp.com '天若有琼')
